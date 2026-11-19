@@ -1,10 +1,10 @@
 // All page text in German and English. Edit the wording here – the components only render it.
 
 export const LINKS = {
-  website: { de: 'https://trainingslager-antalya.de/', en: 'https://trainingslager-antalya.de/en/' },
-  contact: { de: 'https://trainingslager-antalya.de/contact/', en: 'https://trainingslager-antalya.de/en/contact/' },
-  imprint: { de: 'https://trainingslager-antalya.de/imprint/', en: 'https://trainingslager-antalya.de/en/imprint/' },
-  privacy: { de: 'https://trainingslager-antalya.de/privacy-policy/', en: 'https://trainingslager-antalya.de/en/privacy-policy/' },
+  website: { de: 'https://emlak-p1.httpstrainingslager-antalyade.workers.dev/', en: 'https://emlak-p1.httpstrainingslager-antalyade.workers.dev/en/' },
+  contact: { de: 'https://emlak-p1.httpstrainingslager-antalyade.workers.dev/contact/', en: 'https://emlak-p1.httpstrainingslager-antalyade.workers.dev/en/contact/' },
+  imprint: { de: 'https://emlak-p1.httpstrainingslager-antalyade.workers.dev/imprint/', en: 'https://emlak-p1.httpstrainingslager-antalyade.workers.dev/en/imprint/' },
+  privacy: { de: 'https://emlak-p1.httpstrainingslager-antalyade.workers.dev/privacy-policy/', en: 'https://emlak-p1.httpstrainingslager-antalyade.workers.dev/en/privacy-policy/' },
   emlak: 'https://emlak-ag.de/',
   emlakLogo: 'https://emlak-ag.de/wp-content/uploads/2016/11/logo121.png'
 };
